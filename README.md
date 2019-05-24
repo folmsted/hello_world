@@ -1,2 +1,4 @@
 # hello_world
-First repository to learn ow to use GitHub
+First repository to learn how to use GitHub
+
+With luck, I will gain knowledge.
