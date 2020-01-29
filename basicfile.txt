@@ -2,3 +2,5 @@ This file should be present when cloning onto a local device.
 
 This line was added locally.  We hope it ends up appearing in the remote
 version.
+
+This line was again added directly on the remote version.  I guess in principle, such changes should be thought of as having been pushed from other local devices into (onto?) the remote version, not added directly into (onto?) it; but as a simplification, it doesn't seem to hurt to imagine them as appearing directly in the remote version, since that's what it would look like if material were pushed by someone else from a local (thus hidden to me) machine to the centralized (visible to me) version, which is probably a better way to refer to the remote version.  In any event, we hope this paragraph shows up when I pull to my local device.
