@@ -1,1 +1,4 @@
 This file should be present when cloning onto a local device.
+
+This line was added locally.  We hope it ends up appearing in the remote
+version.
